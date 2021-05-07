@@ -2,7 +2,7 @@
 
 The objective of this project is to show case the usage of spring cloud function in AWS using lambda functions.
 
-[![lambda-hello-world-master Actions Status](https://github.com/viswanath7/lambda-hello-world/workflows/Build%20master/badge.svg)](https://github.com/viswanath7/lambda-hello-world/actions)
+[![lambda-hello-world-master Actions Status](https://github.com/viswanath7/lambda-hello-world/actions/workflows/maven.yml/badge.svg)](https://github.com/viswanath7/lambda-hello-world/actions)
 
 ## Usage 
 
