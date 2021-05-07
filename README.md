@@ -2,6 +2,8 @@
 
 The objective of this project is to show case the usage of spring cloud function in AWS using lambda functions.
 
+[![Lambda hello world-master Actions Status](https://github.com/viswanath7/lambda-hello-world/workflows/maven/badge.svg)](https://github.com/viswanath7/lambda-hello-world/actions)
+
 ## Usage 
 
 - Build the project by issuing the command `mvn clean package`
